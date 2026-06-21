@@ -1,0 +1,36 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Build
+build/
+bin/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# IDE temp files
+.metadata/
+.gradle/
+
+# Environment
+.env
+.env.local
